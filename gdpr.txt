@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: GDPR block list
+! Expires: 2 days
+consensu.org
+consent.cmp.oath.com
+https://s.yimg.com/oa/guce.js
