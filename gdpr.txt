@@ -7,3 +7,5 @@ consent.cmp.oath.com
 evidon.com
 
 https://s.yimg.com/oa/guce.js
+
+*gdpr*.js
