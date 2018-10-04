@@ -6,6 +6,8 @@ consensu.org
 consent.cmp.oath.com
 evidon.com
 cookielaw.org
+cursetech.com
+cursecdn.com
 
 https://s.yimg.com/oa/guce.js
 
