@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Version: 1
+! Title: Ad block list
+! Expires: 2 days
+
+subs.vingd.com
