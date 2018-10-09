@@ -4,3 +4,4 @@
 ! Expires: 2 days
 
 subs.vingd.com
+upscore.com

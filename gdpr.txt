@@ -8,6 +8,7 @@ evidon.com
 cookielaw.org
 cursetech.com
 cursecdn.com
+sdk.privacy-center.org
 
 https://s.yimg.com/oa/guce.js
 
