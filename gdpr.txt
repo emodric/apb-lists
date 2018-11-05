@@ -10,6 +10,7 @@ cursetech.com
 cursecdn.com
 sdk.privacy-center.org
 
+wikia.nocookie.net/__load/*cookies*
 https://s.yimg.com/oa/guce.js
 
 *gdpr*.js
