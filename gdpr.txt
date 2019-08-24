@@ -9,8 +9,8 @@ cookielaw.org
 cursetech.com
 sdk.privacy-center.org
 cookiebot.com
+wikia.nocookie.net
 
-wikia.nocookie.net/__load/*cookies*
 https://s.yimg.com/oa/guce.js
 
 *gdpr*.js
