@@ -7,7 +7,6 @@ consent.cmp.oath.com
 evidon.com
 cookielaw.org
 cursetech.com
-cursecdn.com
 sdk.privacy-center.org
 cookiebot.com
 
