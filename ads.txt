@@ -8,3 +8,4 @@ upscore.com
 ads-jutarnji.r.worldssl.net
 midas-network.com
 connectad.io
+linker.hr
