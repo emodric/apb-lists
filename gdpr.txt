@@ -12,6 +12,7 @@ sdk.privacy-center.org
 cookiebot.com
 wikia.nocookie.net
 static.wikia.nocookie.net
+consent.trustarc.com
 
 https://s.yimg.com/oa/guce.js
 
