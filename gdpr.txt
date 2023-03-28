@@ -13,6 +13,7 @@ cookiebot.com
 wikia.nocookie.net
 static.wikia.nocookie.net
 consent.trustarc.com
+onetrust.com
 
 https://s.yimg.com/oa/guce.js
 
